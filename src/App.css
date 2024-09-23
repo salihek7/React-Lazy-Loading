@@ -1,0 +1,14 @@
+.home {
+  background-color: yellow;
+  color: green;
+  font-family: monospace;
+}
+.about {
+  background-color: blue;
+  color: white;
+}
+.contact {
+  background-color: red;
+  color: black;
+  text-align:center;
+}

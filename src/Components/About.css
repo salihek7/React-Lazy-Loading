@@ -1,0 +1,9 @@
+.about{
+    background-color: hsl(0, 74%, 53%);
+    color: yellowgreen;
+    font-family: serif;
+}
+.about p {
+    margin: 0;
+    padding: auto;
+}
